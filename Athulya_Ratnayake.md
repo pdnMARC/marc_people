@@ -1,8 +1,11 @@
 ---
-email: e19328@eng.pdn.ac.lk
+email: athulya@eng.pdn.ac.lk
 post: Research Assistant
 name: Athulya Ratnayake
 photo: ./photos/athulya_ratnayake.png
 ---
+Athulya Ratnayake is a Research Assistant at the Multidisciplinary AI Research Centre (MARC), University of Peradeniya, with a background in Electrical and Electronic Engineering and a strong interest in the mathematical foundations of artificial intelligence and machine learning. His research lies at the intersection of AI, signal processing, applied mathematics, and data driven modelling, with particular interests in computer vision, remote sensing, image denoising, hyperspectral imaging, semantic change detection, demographic analysis, optimization, and the theoretical foundations of modern learning systems. He is especially interested in developing mathematically grounded methods that address practical engineering and societal problems.
 
-Hello world!
+At MARC, Athulya is involved in a range of interdisciplinary research projects spanning imaging, vision, and data centric policy applications. His work includes research on semantic change detection, image denoising, and hyperspectral image analysis, as well as a Demographic Analysis project that uses demographic structures together with modern learning algorithms to support data driven policy making. His recent research has involved designing improved neural architectures that make use of latent space representations and reconstruction based learning, while also exploring methods for noise modelling and semantic guided denoising. He has additionally contributed to applied AI systems involving object detection pipelines and machine learning deployment for real world applications.
+
+Athulya has achieved notable success in both research and competitive problem solving. He and his team secured **1st place in Sri Lanka** and **66th place globally** at **IEEEXtreme 18.0**, following another year in which they also became national champions with a global top 100 placement. He has authored research papers in advanced AI and remote sensing, including an accepted paper in the **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)** titled *“Mamba-FCS: Joint Spatio-Frequency Feature Fusion, Change-Guided Attention, and SeK Inspired Loss for Enhanced Semantic Change Detection in Remote Sensing.”* His broader academic interests also extend beyond engineering into self directed study of higher mathematics.
