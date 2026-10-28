@@ -4,6 +4,8 @@
 
 If your pull request is merged here, the website workflow will clone this repository into the website build, and your profile can appear on the live site.
 
+**No GitHub account?** Use the MARC profile form instead (its link is on the website's Documentation page). Every night at midnight Sri Lanka time, new form responses become pull requests here for a maintainer to review: see [google-form/README.md](google-form/README.md).
+
 ## :pencil2: Quick start: update your own profile
 
 Everyone at MARC keeps their own profile up to date. You can do it entirely in the browser:

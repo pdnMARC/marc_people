@@ -1,0 +1,21 @@
+{
+  "_comment": "Question titles of the profile form. The response sheet uses them as column headings, so the form (setup.gs) and the sync scripts (scripts/form-sync.mjs here and in marc_projects) must use the same text. Change them together.",
+  "timestamp": "Timestamp",
+  "submitter": "Email address",
+  "action": "What would you like to do?",
+  "actionNew": "Add a new profile",
+  "actionUpdate": "Update my existing profile",
+  "email": "Your main email address",
+  "name": "Your name, as it should appear on the website",
+  "post": "Your role at MARC",
+  "otherEmails": "Other email addresses",
+  "otherNames": "Other forms of your name in author lists",
+  "photo": "Profile photo",
+  "bio": "Biography",
+  "status": "Are you a current or a past member of MARC?",
+  "statusCurrent": "Current member",
+  "statusPast": "Past member",
+  "currentPosition": "Where are you now? (past members only)",
+  "projects": "Projects you work on as a researcher",
+  "roles": ["Director", "Deputy Director", "Research Assistant", "Volunteer"]
+}
