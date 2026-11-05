@@ -195,13 +195,19 @@ The website also renders your Markdown content as the biography on your profile 
 
 ## :label: Supported roles
 
-Use one of these exact values for `post`:
-- `Director`
-- `Deputy Director`
-- `Research Assistant`
-- `Volunteer`
+Use one of these exact values for `post`. The People page groups people by role under these headings:
 
-These values come from the website code. If you use a different role, the website may not show your profile in the main people listing.
+| `post` | Heading on the People page |
+|---|---|
+| `Director` | Director |
+| `Deputy Director` | Deputy Directors |
+| `Project Coordinator` | Engineers, Research Assistants & Coordinators |
+| `Research Engineer` | Engineers, Research Assistants & Coordinators |
+| `Research Assistant` | Engineers, Research Assistants & Coordinators |
+| `Research Intern` | Engineers, Research Assistants & Coordinators |
+| `Volunteer` | Volunteers |
+
+The validator (`scripts/validate-people.mjs`) rejects any other value. To add a role, update `allowedRoles` there, `roles` in `google-form/questions.json`, the profile form's drop-down, and the groups in the website's `src/pages/people/index.astro`.
 
 ## :globe_with_meridians: Option A: Edit using the GitHub website
 

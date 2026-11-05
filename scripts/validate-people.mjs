@@ -6,10 +6,15 @@ import { z } from "zod";
 const repoRoot = process.cwd();
 // Markdown files live in profiles/, together with their images (profiles/photos/).
 const contentDir = path.join(repoRoot, "profiles");
+// The website's People page groups people by these roles (pdnmarc.github.io src/pages/people/index.astro).
+// Keep google-form/questions.json (and the form's drop-down) in step.
 const allowedRoles = [
   "Director",
   "Deputy Director",
+  "Project Coordinator",
+  "Research Engineer",
   "Research Assistant",
+  "Research Intern",
   "Volunteer",
 ];
 
