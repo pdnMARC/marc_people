@@ -24,7 +24,7 @@ const Q = {
   statusPast: "Past member",
   currentPosition: "Where are you now? (past members only)",
   projects: "Projects you work on as a researcher",
-  roles: ["Director", "Deputy Director", "Research Assistant", "Volunteer"],
+  roles: ["Director", "Deputy Director", "Project Coordinator", "Research Engineer", "Research Assistant", "Research Intern", "Volunteer"],
 };
 const PROJECTS_API = "https://api.github.com/repos/pdnMARC/marc_projects/contents/projects";
 
