@@ -196,7 +196,7 @@ The website also renders your Markdown content as the biography on your profile 
 Optional **card fields**, used mostly by the Director, Deputy Directors, Members and Advisors (full guide: [pdnmarc.github.io/docs/profiles/#card-fields](https://pdnmarc.github.io/docs/profiles/#card-fields)):
 - `detail`: a line under the role on the People page card, e.g. `"Planning"` or a satellite centre
 - `order`: position within the role's group on the People page, `1` first
-- `links`: round buttons on the card: `website`, `university`, `scholar`, `linkedin` (each optional)
+- `links`: round buttons on the card: `website`, `university`, `scholar`, `linkedin` (each optional). For the Director, Deputy Directors, Members and Advisors, the name on the website then links to `website`, or else `university`
 - `page`: `false` shows only the card, without a page of its own
 
 ## :label: Supported roles
